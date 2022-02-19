@@ -7,9 +7,19 @@ Hey, I'm Dion, a Noob Developer from Indonesia
 
 - 🔭 I’m currently working on  **Make many Telegram bots.**
 - 🌱 I’m currently learning  **Python***
-- 📫 Contact me at :  **[Telegram](https://t.me/Royzu).**
 - 😄 Gender :  **Boy**
 - [SeorangDion](https://github.com/SeorangDion) is my first github account 
+
+### Connect with me:
+[<img align="left" alt="Dion | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Dion | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Dion | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br />
+
+
+[telegram]: https://t.me/Royzu
+[instagram]: https://instagram.com/SeorangDion
+[twitter]: https:twitter.com/SeorangDion
 
 **Tools:**  
 
@@ -24,7 +34,8 @@ Hey, I'm Dion, a Noob Developer from Indonesia
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xayzo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
 
 
-**Date:**
+**Joined to Github:**
+
 19/02/2022, 17:06 WIB
 
 
